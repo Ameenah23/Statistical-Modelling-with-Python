@@ -65,4 +65,4 @@ The Steps:
     I learn I'll be very careful to not speak about my disability. One year a go, I do not have this health problem. Any person of us may face an accedent or disease causes him\her disability.
     If I'll still in the program, I'll apply advance statitical analyzing to build perfect model.
 
-![New York Map](NewYorkmap.png)
+![New York Map](https://github.com/Ameenah23/Statistical-Modelling-with-Python/blob/main/images/NewYorkmap.PNG)
