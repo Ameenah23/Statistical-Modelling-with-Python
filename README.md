@@ -53,16 +53,10 @@ The Steps:
 
 ## Challenges 
 (discuss challenges you faced in the project)
-    - I faced many challenges in this project because of the time. There were an exam and project in one week.The project requires very high knowledge in programming and transferring files formats.
-    - lack of real dirctions from the materials to optomizing the time. We turn around ourselves for two days until figure out how to access to the right API pages. How to converting between formats.
-    - My computer is an old, hang, freezing, restarting alone. 
-    - VSCode is not working well. Everytime, needs to install the libraries. contradict between the version libraries.
-    - I had to travel out of the province for my medical appointment and that causes me huge trubles with the coordinators of the program.
-    - I made a big mistake when I declared to the coordinators of the program about my disability to request a commodation according to my situation but that makes the staff of the program .... ect. 
+    - Time
+    - Technical problems.
 
 
-## Future Goals
-    I learn I'll be very careful to not speak about my disability. One year a go, I do not have this health problem. Any person of us may face an accedent or disease causes him\her disability.
-    If I'll still in the program, I'll apply advance statitical analyzing to build perfect model.
+
 
 ![New York Map](https://github.com/Ameenah23/Statistical-Modelling-with-Python/blob/main/images/NewYorkmap.PNG)
