@@ -59,10 +59,5 @@ The Steps:
     - I had to travel out of the province for my medical appointment and the causes me huge trubles with the coordinators of the program.
     - I made a big mistake when I realized to the coordinators of the program about my disability to request a commodation according to my situation but that makes the staff of the program .... ect. 
 
-
-## Future Goals
-    I learn I'll be very careful to not speak about my disability. One year a go, I do not have this health problem. Any person of us may face an accedent or disease causes him\her disability.
-    If I'll still in the program, I'll apply advance statitical analyzing to build perfect model.
-
 ![New York Map](NewYorkmap.png)
 
